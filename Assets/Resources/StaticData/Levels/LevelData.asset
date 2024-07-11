@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c683d2a2d406f14b8dec33a99a22610, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  LevelId: 0
+  SceneName: BigMap
+  Waypoints: {fileID: 2055977398653739141, guid: e021db777d1b1674db27372b9a6cb86a, type: 3}
+  LapObjectives: {fileID: 5949267012954507050, guid: 135566c30a205f74492756d190286774, type: 3}
+  RaceBarrier:
+  - {fileID: 8588135150311689039, guid: b67890e587d67c44ea9ad9f15c5c264b, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8854b7093318e49468f1e452a44770ac, type: 3}
+  m_Name: Dodge
+  m_EditorClassIdentifier: 
+  CarTypeId: 0
+  Prefab: {fileID: 1991614773304998983, guid: c385779f30773a942940696181128629, type: 3}
+  MaxSpeed: 150
+  MotorPower: 1500
+  BrakePower: 15000
