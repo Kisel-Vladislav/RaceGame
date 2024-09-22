@@ -1,12 +1,12 @@
 # RaceGame 🏎
-Яндекс игры - https://yandex.ru/games/app/347372?draft=true&lang=ru
-
-## 🎮 Demo
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0414c9a6-b035-4440-9089-90440604fa72"/>
 </p>
 
+Яндекс игры - https://yandex.ru/games/app/347372?draft=true&lang=ru
+
+## 🎮 Demo
 <details>
 <summary>Meta</summary>
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/6a38e899-10aa-44c0-ae7e-2860dc6da938
 <details>
 <summary>GamePlay</summary>
   
-https://github.com/user-attachments/assets/0fd8d403-58d6-4d86-90df-84d67fd94423
+https://github.com/user-attachments/assets/1dcfd89b-0fc2-483b-89ea-2794e2c99551
 
 </details>
 
